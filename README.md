@@ -1,4 +1,4 @@
-### Hi, I'm Daniel Chaparro and i'm a Colombian Web Dev 👋
+### Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋
 
 <!--
 **DFCH9503/DFCH9503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
