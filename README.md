@@ -1,11 +1,8 @@
-<p align=”center”>
 
-<img width=”200" height=”200" src=”[https://github.com/DFCH9503/DFCH9503/assets/112893233/0870ce84-02bb-4d0e-a882-4bc8de699f53](https://github.com/DFCH9503/DFCH9503/assets/112893233/0870ce84-02bb-4d0e-a882-4bc8de699f53)" alt=”my banner”>
-
-</p>
+![BANNER-LINKEDIN-GITHUB](https://github.com/DFCH9503/DFCH9503/assets/112893233/9b98d52e-ed70-4fff-abf6-d4c775645da9.png)
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="[https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png](https://github.com/DFCH9503/DFCH9503/assets/112893233/0870ce84-02bb-4d0e-a882-4bc8de699f53)" alt="my banner"></a>
+  <img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner">
 </p>
 
 <h3 align="center">
