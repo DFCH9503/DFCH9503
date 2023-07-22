@@ -4,8 +4,9 @@
 
 </p>
 
-
+<h3 align="center">
 ### Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋
+</h3>
 
 <!--
 **DFCH9503/DFCH9503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
