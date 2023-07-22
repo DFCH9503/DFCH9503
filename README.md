@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" ssrc=”https://github.com/DFCH9503/DFCH9503/assets/112893233/0870ce84-02bb-4d0e-a882-4bc8de699f53" alt=”my banner”>
+<img width=”200" height=”200" src=”https://github.com/DFCH9503/DFCH9503/assets/112893233/0870ce84-02bb-4d0e-a882-4bc8de699f53" alt=”my banner”>
 
 </p>
 
