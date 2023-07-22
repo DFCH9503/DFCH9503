@@ -9,7 +9,7 @@ Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/dfch9503/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="DFCH9503 | LinkedIn" width="30px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="DFCH9503 | Instagram" width="30px"/></a>
+<a href="https://www.instagram.com/dfchaparro/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="DFCH9503 | Instagram" width="30px"/></a>
 </br>
 
 <!--
