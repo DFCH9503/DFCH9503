@@ -31,6 +31,19 @@ Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋 :books: :colombia:
 </br>
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=%231572B6&color=%231572B6)
+![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=%237952B3&color=%237952B3)
+
+</br>
+
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=%23CB3837&color=%23CB3837)
+![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=#2C8EBB&color=#2C8EBB)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=%23F05032&color=%23F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=%23181717&color=%23181717)
+![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=%230052CC&color=%230052CC)
+![](https://img.shields.io/badge/Tools-Discord-informational?style=flat&logo=discord&logoColor=%235865F2&color=%235865F2)
+![](https://img.shields.io/badge/Tools-Slack-informational?style=flat&logo=slack&logoColor=%234A154B&color=%234A154B)
+![](https://img.shields.io/badge/Tools-Canva-informational?style=flat&logo=canva&logoColor=%2300C4CC&color=%2300C4CC)
+
 
 <!--
 **DFCH9503/DFCH9503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
