@@ -1,6 +1,3 @@
-
-![BANNER-LINKEDIN-GITHUB](https://github.com/DFCH9503/DFCH9503/assets/112893233/9b98d52e-ed70-4fff-abf6-d4c775645da9.png)
-
 <p align="center">
   <img src="https://github.com/DFCH9503/DFCH9503/assets/112893233/9b98d52e-ed70-4fff-abf6-d4c775645da9.png" alt="my banner">
 </p>
