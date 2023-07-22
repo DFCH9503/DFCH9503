@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-### Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋
+Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋
 </h3>
 
 <!--
