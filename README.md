@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋:colombia:
+Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋 :books: :colombia: 
 </h3>
 
 ### 🤝 Connect with me:
@@ -21,10 +21,16 @@ Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋:colombia:
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodedotjs&logoColor=%23339933&color=%23339933)
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=%23000000&color=%23000000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=%231572B6&color=%231572B6)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=%234479A1&color=%234479A1)
+![](https://img.shields.io/badge/Code-Sequelize-informational?style=flat&logo=sequelize&logoColor=%2352B0E7&color=%2352B0E7)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=%233178C6&color=%233178C6)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=%233776AB&color=%233776AB)
+![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=%2300599C&color=%2300599C)
 
+</br>
+
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=%231572B6&color=%231572B6)
 
 <!--
 **DFCH9503/DFCH9503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
