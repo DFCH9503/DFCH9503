@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋
+Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋:colombia:
 </h3>
 
 ### 🤝 Connect with me:
@@ -21,6 +21,7 @@ Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodedotjs&logoColor=%23339933&color=%23339933)
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=%23000000&color=%23000000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=%231572B6&color=%231572B6)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
