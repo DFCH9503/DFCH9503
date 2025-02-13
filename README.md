@@ -27,6 +27,7 @@ Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋 :books: :colombia:
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=%233178C6&color=%233178C6)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=%233776AB&color=%233776AB)
 ![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=%2300599C&color=%2300599C)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=#00ADD8&color=#00ADD8)
 
 </br>
 
