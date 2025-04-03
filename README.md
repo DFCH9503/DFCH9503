@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/DFCH9503/DFCH9503/assets/112893233/9b98d52e-ed70-4fff-abf6-d4c775645da9.png" alt="my banner">
-</p>
+</p> -->
 
 <h3 align="center">
 Hi, I'm Daniel Chaparro and I'm a Backend Web Dev 👋 :books: :colombia: 
@@ -28,13 +28,13 @@ Hi, I'm Daniel Chaparro and I'm a Backend Web Dev 👋 :books: :colombia:
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=%234479A1&color=%234479A1)
 ![](https://img.shields.io/badge/Code-Sequelize-informational?style=flat&logo=sequelize&logoColor=%2352B0E7&color=%2352B0E7)
 
-![//](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=%2300599C&color=%2300599C)
+<!---![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=%2300599C&color=%2300599C) -->
 
 
 </br>
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=%231572B6&color=%231572B6)
-![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=%237952B3&color=%237952B3)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=%237952B3&color=%237952B3)
 
 </br>
 
@@ -48,17 +48,17 @@ Hi, I'm Daniel Chaparro and I'm a Backend Web Dev 👋 :books: :colombia:
 ![](https://img.shields.io/badge/Tools-Canva-informational?style=flat&logo=canva&logoColor=%2300C4CC&color=%2300C4CC)
 
 
-[<!--
-**DFCH9503/DFCH9503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!---**DFCH9503/DFCH9503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-- 🔭 I’m currently working on Node.js backend
-- 🌱 I’m currently learning FULLSTACK Dev
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm a Mechanical engineer and love F1
--->](url)
+Here are some ideas to get you started: -->
+
+- 🔭 I’m currently working on Node.js - Ging.go backend
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate on Go backend projects
+<!-- - 🤔 I’m looking for help with -->
+- 💬 Ask me about anything, if I don't know...I can learn 
+<!-- - 📫 How to reach me: 
+- 😄 Pronouns: ... -->
+- ⚡ Fun fact: I'm a Mechanical engineer :mechanical_arm:, love F1 🏎️ and debug code :computer: 
+
