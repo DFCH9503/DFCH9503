@@ -18,16 +18,18 @@ Hi, I'm Daniel Chaparro and I'm a Backend Web Dev 👋 :books: :colombia:
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=#00ADD8&color=#00ADD8)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=%233178C6&color=%233178C6)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=%233776AB&color=%233776AB)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodedotjs&logoColor=%23339933&color=%23339933)
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=%23000000&color=%23000000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=%234479A1&color=%234479A1)
 ![](https://img.shields.io/badge/Code-Sequelize-informational?style=flat&logo=sequelize&logoColor=%2352B0E7&color=%2352B0E7)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=%233178C6&color=%233178C6)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=%233776AB&color=%233776AB)
-![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=%2300599C&color=%2300599C)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=#00ADD8&color=#00ADD8)
+
+![//](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=%2300599C&color=%2300599C)
+
 
 </br>
 
