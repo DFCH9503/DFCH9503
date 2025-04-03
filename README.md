@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋 :books: :colombia: 
+Hi, I'm Daniel Chaparro and I'm a Backend Web Dev 👋 :books: :colombia: 
 </h3>
 
 ### 🤝 Connect with me:
@@ -46,7 +46,7 @@ Hi, I'm Daniel Chaparro and I'm a Full-Stack Web Dev 👋 :books: :colombia:
 ![](https://img.shields.io/badge/Tools-Canva-informational?style=flat&logo=canva&logoColor=%2300C4CC&color=%2300C4CC)
 
 
-<!--
+[<!--
 **DFCH9503/DFCH9503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a Mechanical engineer and love F1
--->
+-->](url)
