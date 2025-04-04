@@ -1,64 +1,66 @@
-<!-- <p align="center">
-  <img src="https://github.com/DFCH9503/DFCH9503/assets/112893233/9b98d52e-ed70-4fff-abf6-d4c775645da9.png" alt="my banner">
-</p> -->
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h3 align="center">
-Hi, I'm Daniel Chaparro and I'm a Backend Web Dev 👋 :books: :colombia: 
-</h3>
+###
 
-### 🤝 Connect with me:
+<p align="left">My name is Daniel Chaparro and I'm a Backend Web Dev, from Colombia :colombia:</p>
 
-<a href="https://www.linkedin.com/in/dfch9503/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="DFCH9503 | LinkedIn" width="30px"/></a>
-<a href="https://www.instagram.com/dfchaparro/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="DFCH9503 | Instagram" width="30px"/></a>
-</br>
+###
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<h2 align="left">About me</h2>
 
+###
 
-## 💼 Technical Skills
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Go | Frameworks<br>🔭 I’m currently working on Node.js - Ging.go backend<br>🎲 Fun fact: I'm a Mechanical engineer :mechanical_arm:, love F1 🏎️ and debug code :computer:</p>
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=#00ADD8&color=#00ADD8)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=%233178C6&color=%233178C6)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=%233776AB&color=%233776AB)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodedotjs&logoColor=%23339933&color=%23339933)
-![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=%23000000&color=%23000000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=%234479A1&color=%234479A1)
-![](https://img.shields.io/badge/Code-Sequelize-informational?style=flat&logo=sequelize&logoColor=%2352B0E7&color=%2352B0E7)
+###
 
-<!---![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=%2300599C&color=%2300599C) -->
+<h2 align="left">I code with</h2>
 
+###
 
-</br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
 
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=%231572B6&color=%231572B6)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=%237952B3&color=%237952B3)
+###
 
-</br>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
 
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=%23CB3837&color=%23CB3837)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=#2C8EBB&color=#2C8EBB)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=%23F05032&color=%23F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=%23181717&color=%23181717)
-![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=%230052CC&color=%230052CC)
-![](https://img.shields.io/badge/Tools-Discord-informational?style=flat&logo=discord&logoColor=%235865F2&color=%235865F2)
-![](https://img.shields.io/badge/Tools-Slack-informational?style=flat&logo=slack&logoColor=%234A154B&color=%234A154B)
-![](https://img.shields.io/badge/Tools-Canva-informational?style=flat&logo=canva&logoColor=%2300C4CC&color=%2300C4CC)
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DFCH9503/DFCH9503/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DFCH9503/DFCH9503/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DFCH9503/DFCH9503/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
-<!---**DFCH9503/DFCH9503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<div align="center">
+  <a href="https://open.spotify.com/user/DCH9503">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=DCH9503&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
-Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working on Node.js - Ging.go backend
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on Go backend projects
-<!-- - 🤔 I’m looking for help with -->
-- 💬 Ask me about anything, if I don't know...I can learn 
-<!-- - 📫 How to reach me: 
-- 😄 Pronouns: ... -->
-- ⚡ Fun fact: I'm a Mechanical engineer :mechanical_arm:, love F1 🏎️ and debug code :computer: 
+###
 
